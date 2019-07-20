@@ -1,2 +1,2 @@
-Git is a smart software.
-I would like to learn it.
+Git is a smart softwareeee.
+I would lew to learn it.
