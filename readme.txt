@@ -1,2 +1,2 @@
-Git is a smart .
+Git is a smar.
 I would lew to learn it.
