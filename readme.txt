@@ -1,2 +1,2 @@
-Git is a smart softwareeee.
+Git is a smart .
 I would lew to learn it.
